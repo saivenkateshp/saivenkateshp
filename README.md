@@ -70,18 +70,18 @@ AI/ML Engineer with **3+ years** of experience building Generative AI applicatio
 - Autonomous agent that converts natural-language questions into accurate, executable SQL using **Google ADK** and **LangChain**.
 - Agentic orchestration with dynamic prompt engineering, structured outputs, guardrails, and context grounding for reliable data retrieval.
 
-### 📡 [Streaming with Real-time Tweets](https://github.com/saivenkateshpalatla/Streaming-with-Real-time-Tweets)
+### 📡 [Streaming with Real-time Tweets](https://github.com/saivenkateshp/Streaming-with-Real-time-Tweets)
 `Python` `Kafka` `Spark` `Elasticsearch` `Kibana`
 - Distributed ingestion pipeline using **Apache Kafka** to continuously capture and stream live social media feeds.
 - Classified real-time streams with **Apache Spark**, achieving **95% accuracy** against a pre-classified validation set.
 - Indexed results into **Elasticsearch** and built interactive **Kibana** dashboards for live trends and metrics.
 
-### 🎼 [Search Engine for Opera Music](https://github.com/saivenkateshpalatla/Search-Engine-for-Opera-Music)
+### 🎼 [Search Engine for Opera Music](https://github.com/saivenkateshp/Search-Engine-for-Opera-Music)
 `Python` `Apache Nutch` `Apache Solr` `Flask`
 - Crawled and indexed **120,000+ pages** of opera music data with **Apache Nutch** into an **Apache Solr** cluster for fast full-text retrieval.
 - Implemented **PageRank** and **HITS** link-analysis algorithms in Python to improve search relevance and ranking.
 
-### ✍️ [DeepMath](https://github.com/saivenkateshpalatla/DeepMath)
+### ✍️ [DeepMath](https://github.com/saivenkateshp/DeepMath)
 `Python` `TensorFlow` `Keras` `OpenCV`
 - **OpenCV** pipeline that segments handwritten mathematical expressions into individual characters and normalizes them for model input.
 - Trained a **CNN** in TensorFlow/Keras on the segmented characters, achieving **92% recognition accuracy** on a held-out test set.
