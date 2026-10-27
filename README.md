@@ -90,7 +90,6 @@ AI/ML Engineer with **3+ years** of experience building Generative AI applicatio
 
 ## 🎓 Education
 
-- **M.S. in Artificial Intelligence** — Indiana Wesleyan University *(Jun 2026 – Dec 2027, in progress)*
 - **M.S. in Computer Science** — The University of Texas at Dallas *(Aug 2021 – May 2023)*
 - **B.E. in Computer Science** — Amrita Vishwa Vidyapeetham *(Jul 2015 – Jul 2019)*
 
